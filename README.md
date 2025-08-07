@@ -1,4 +1,4 @@
-# 🧮 Simple Tkinter Calculator
+# 🧮 Basic Tkinter Calculator
 
 A basic calculator app built with Python and Tkinter. It supports standard arithmetic operations with a clean GUI.
 
